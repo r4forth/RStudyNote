@@ -1,4 +1,4 @@
-# 趙鵬
+# 學R 書籍網站
 
 ## Blog 整理
 
@@ -16,9 +16,4 @@
 01. 2018-06-09 [dancingapple：学 R 笔记 1](http://xuer.dapengde.com/post/dancingapple-1/)
 01. 2018-06-15 [《学 R》读者反馈第 1 弹](http://xuer.dapengde.com/post/feedback-1/)
 01. 2018-06-18 [drunkevil：读 @dapeng 的《学 R》](http://xuer.dapengde.com/post/drunkevil/)
-01. []()
-01. []()
-01. []()
-01. []()
-01. []()
 

@@ -18,6 +18,7 @@
 1. [Emoji-Cheat-Sheet](https://www.webfx.com/tools/emoji-cheat-sheet/)
 2. [用 JavaScript 玩轉 Emoji 表情圖示原來這麼簡單](https://blog.miniasp.com/post/2019/01/08/Understanding-Emoji-Unicode-and-JavaScript#continue)
 3. [Unicode: Emoji, accents, and international text](https://cran.r-project.org/web/packages/utf8/vignettes/utf8.html)
+4. [Unicdoe Emoji 12.0 版資料表](http://www.unicode.org/Public/emoji/12.0/emoji-data.txt)
 
 ## RStudio 1.2 版 Preview
 
